@@ -1,0 +1,20 @@
+title: "sex book"
+url: "https://sexbook.github.io"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://sexbook.github.io/"
+footer_text: "Page design sex book"
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+nav:
+  - name: "about"
+    link: "/#about"
